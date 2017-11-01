@@ -1,4 +1,5 @@
 Possible materials:
+https://www.udemy.com/react-redux/ - Recommended by Omar
 
 https://reactjs.org/docs/thinking-in-react.html
 (I found this really valuable to return to when building my first react projects -Brian)
