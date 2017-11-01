@@ -1,4 +1,5 @@
 Possible materials:
+
 https://www.udemy.com/react-redux/ - Recommended by Omar
 
 https://reactjs.org/docs/thinking-in-react.html
