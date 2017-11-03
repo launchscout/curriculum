@@ -1,26 +1,22 @@
 # Topics
 
 * What is git
-
-** A collection of commands and subtools
-** Explain commits and hashes
-** What is a diff?
-
+  * A collection of commands and subtools
+  * Explain commits and hashes
+  * What is a diff?
 * Typical git flow
-
-** Branch for working code
-** Git log
-** Rebase
-** Bisect
-** Cherry-pick
+  * Branch for working code
+  * Git log
+  * Rebase
+  * Bisect
+  * Cherry-pick
 
 * Git config
 * Hooks
 * Gitlab
-
-** Review UI
-** Merge requests (code reviews)
-** CI Runners
+  * Review UI
+  * Merge requests (code reviews)
+  * CI Runners
 
 
 # Videos to watch before class
