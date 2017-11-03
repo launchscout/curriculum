@@ -1,25 +1,30 @@
 # Topics
 
 * What is git
+
 ** A collection of commands and subtools
 ** Explain commits and hashes
 ** What is a diff?
 
 * Typical git flow
+
 ** Branch for working code
 ** Git log
 ** Rebase
 ** Bisect
 ** Cherry-pick
+
 * Git config
 * Hooks
 * Gitlab
+
 ** Review UI
 ** Merge requests (code reviews)
 ** CI Runners
 
 
 # Videos to watch before class
+
 * [What is version control](https://git-scm.com/video/what-is-version-control)
 * [What is git](https://git-scm.com/video/what-is-git)
 
