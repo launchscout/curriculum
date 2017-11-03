@@ -31,8 +31,8 @@ The goal of the hands on class work is to pair up and build a node or java scrip
 ## User stories
 
 * As a developer, I want to run a script to generate a markdown file based on the git log so that I can see what has happened recently.
-** Output each git commit entry message as a bullet point item
-** Use repo name as h1 in file
+  * Output each git commit entry message as a bullet point item
+  * Use repo name as h1 in file
 * As a developer, I want to parse the git log for special characters to control the output of the changelog so that we can be more exacting in the output.
-** Handle [skip changelog]
-** Handle # Release X.Y.Z
+  * Handle [skip changelog]
+  * Handle # Release X.Y.Z
