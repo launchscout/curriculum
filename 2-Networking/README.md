@@ -2,7 +2,7 @@
 
 * OSI Model (7 layers)
 * Overview of network activity to get to Kroger.com
- * IP Addresses
+  * IP Addresses
  * DNS
  * Browsers
  * HTTP vs HTTPS
