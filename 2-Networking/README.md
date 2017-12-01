@@ -21,7 +21,10 @@
 
 # Hands on class work
 
-The goal of the hands on class work is to pair up and build a node or java script to spit out a list of nearby devices on the network around you.
+The goal of the hands on class work is to pair up and build a node script to spit out a list of nearby devices on the network around you.
 
 ## User stories
 
+* As a developer, I want to write a script that scans the network around me to find other devices on the network.
+  * Use the arp table to find devices
+* As a developer, I want to output a markdown file that lists out the network devices I found around me.
