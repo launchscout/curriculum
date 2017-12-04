@@ -24,6 +24,10 @@
 * [What is version control](https://git-scm.com/video/what-is-version-control)
 * [What is git](https://git-scm.com/video/what-is-git)
 
+# Additional Resources
+
+* [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+
 # Hands on class work
 
 The goal of the hands on class work is to pair up and build a node or java script to spit out a changelog markdown file based on commit messages.
