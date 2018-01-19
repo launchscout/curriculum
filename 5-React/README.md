@@ -7,3 +7,13 @@ https://reactjs.org/docs/thinking-in-react.html
 
 https://reactjs.org/tutorial/tutorial.html
 (I haven't gone through this yet but looks promising -Brian)
+
+https://facebook.github.io/jest/docs/en/tutorial-react.html
+Testing react with jest
+
+Day plan:
+
+* Questions from material
+* create-react-app group walk through
+* Simple react challenge?
+* Hangman react challenge
