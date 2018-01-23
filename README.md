@@ -9,7 +9,7 @@ It is broken up by daily topics that we will cover.
 ## Days
 
 * Day 1
-  * Onboarding - JO
+  * [Onboarding](1-Onboarding) - JO
 * Day 2
   * Networking - JO
   * Git - JO
