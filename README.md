@@ -11,8 +11,8 @@ It is broken up by daily topics that we will cover.
 * Day 1
   * [Onboarding](1-Onboarding) - JO
 * Day 2
-  * Networking - JO
-  * Git - JO
+  * [Networking](2-Networking) - JO
+  * [Git](3-Git) - JO
 * Day 3
-  * Java - CN
+  * [Java](7-Java) - CN
   
