@@ -5,3 +5,14 @@ This repo is built as a center of all knowledge and course material for the Krog
 ## How it works
 
 It is broken up by daily topics that we will cover.
+
+## Days
+
+* Day 1
+  * Onboarding - JO
+* Day 2
+  * Networking - JO
+  * Git - JO
+* Day 3
+  * Java - CN
+  
