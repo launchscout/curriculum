@@ -18,6 +18,9 @@
   * Merge requests (code reviews)
   * CI Runners
 
+# Courses
+
+* [Udemy git and github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 # Videos to watch before class
 

@@ -19,6 +19,10 @@
 * [What is DNS](https://www.youtube.com/watch?v=Rck3BALhI5c)
 * [What is a Proxy](https://www.youtube.com/watch?v=jGQTS1CxZTE)
 
+# Courses
+
+* [Udemy HTTP Courses](https://www.udacity.com/course/client-server-communication--ud897)
+
 # Hands on class work
 
 The goal of the hands on class work is to pair up and build a node script to spit out a list of nearby devices on the network around you.
