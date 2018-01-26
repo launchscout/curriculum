@@ -27,3 +27,4 @@ It is broken up by daily topics that we will cover.
   * [React](5-React)
 * Day 3
   * [Redux](6-Redux)
+  * [Webpack](6.5-Webpack)
