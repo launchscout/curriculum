@@ -10,7 +10,7 @@ It is broken up by daily topics that we will cover.
 
 * **Week 1** - Day 1
   * [Onboarding](1-Onboarding) - JO
-  * [Command Line Fu](1.5-Command Line Fu) - ??
+  * [Command Line Fu](1.5-Command Line Fu) - JO
 * Day 2
   * [Networking](2-Networking) - JO
   * [Git](3-Git) - JO
@@ -19,18 +19,18 @@ It is broken up by daily topics that we will cover.
 * Day 4
   * [Spring](8-Spring) - CN
 * Day 5
-  * [Database](9-Databases) - ??
+  * [Database](9-Databases) - JO
   
 * **Week 2** - Day 1
-  * [Javascript](4-Javascript)
+  * [Javascript](4-Javascript) - BK
 * Day 2
-  * [React](5-React)
+  * [React](5-React) - BK
 * Day 3
-  * [Redux](6-Redux)
-  * [Webpack](6.5-Webpack)
+  * [Redux](6-Redux) - BK
+  * [Webpack](6.5-Webpack) - JO
 * Day 4
-  * [Docker](11-Docker)
-  * [Agile](10-Agile)
+  * [Docker](11-Docker) - JO
+  * [Agile](10-Agile) - CN/Scott
 * Day 5
   * Sprint Planning
   * Begin Sprint Work
