@@ -28,3 +28,22 @@ It is broken up by daily topics that we will cover.
 * Day 3
   * [Redux](6-Redux)
   * [Webpack](6.5-Webpack)
+* Day 4
+  * [Docker](11-Docker)
+  * [Agile](10-Agile)
+* Day 5
+  * Sprint Planning
+  * Begin Sprint Work
+  
+* **Week 3** - Day 1
+  * Pairing
+* Day 2
+  * Pairing
+* Day 3
+  * Pairing
+* Day 4
+  * Pairing
+  * Real team sprint planning
+* Day 5
+  * Sprint Review
+  * Retro
