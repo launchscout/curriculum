@@ -8,7 +8,7 @@ It is broken up by daily topics that we will cover.
 
 ## Days
 
-* Day 1
+* **Week 1** - Day 1
   * [Onboarding](1-Onboarding) - JO
   * [Command Line Fu](1.5-Command Line Fu) - ??
 * Day 2
@@ -21,3 +21,9 @@ It is broken up by daily topics that we will cover.
 * Day 5
   * [Database](9-Databases) - ??
   
+* **Week 2** - Day 1
+  * [Javascript](4-Javascript)
+* Day 2
+  * [React](5-React)
+* Day 3
+  * [Redux](6-Redux)
