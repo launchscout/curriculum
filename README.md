@@ -10,7 +10,7 @@ It is broken up by daily topics that we will cover.
 
 * Day 1
   * [Onboarding](1-Onboarding) - JO
-  * [Command Line Fu](1.5 - Command Line Fu) - ??
+  * [Command Line Fu](1.5-Command Line Fu) - ??
 * Day 2
   * [Networking](2-Networking) - JO
   * [Git](3-Git) - JO
