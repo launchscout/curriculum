@@ -16,3 +16,9 @@ Other topics:
 * NPM
 * Transpilers
 * Jest
+
+Day plan:
+
+* Questions from reading material
+* TDD intro
+* Ecmascript exercisms
