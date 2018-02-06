@@ -13,6 +13,7 @@
   * Firewalls
 * Overview of Cloud Foundry and DCPloy
 * Overview of Microservices at Kroger
+* Talk about Postman and HTTP communication with API services
 
 # Videos to watch before class
 
@@ -25,7 +26,11 @@
 
 # Hands on class work
 
-The goal of the hands on class work is to pair up and build a node script to spit out a list of nearby devices on the network around you.
+The first goal of the hands on class work is to pair up and use postman to hit some services and get responses back.
+
+The second goal of the hands on class work is to pair up and build a node script to spit out a list of nearby devices on the network around you.
+
+## Postman URLS
 
 ## User stories
 

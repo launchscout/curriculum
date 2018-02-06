@@ -6,4 +6,4 @@
 4. Login to JIRA/Gitlab/Stash and setup profile
 5. Create and login to mattermost
 6. Setup exercism
-6. Building Tour
+7. Building Tour

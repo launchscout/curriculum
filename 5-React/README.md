@@ -1,15 +1,12 @@
-Possible materials:
+# Posts to read before class
 
-https://www.udemy.com/react-redux/ - Recommended by Omar
+* [Thinking in react](https://reactjs.org/docs/thinking-in-react.html)
+* [Testing react with jest](https://facebook.github.io/jest/docs/en/tutorial-react.html)
 
-https://reactjs.org/docs/thinking-in-react.html
-(I found this really valuable to return to when building my first react projects -Brian)
+# Additional Resources
 
-https://reactjs.org/tutorial/tutorial.html
-(I haven't gone through this yet but looks promising -Brian)
+* [Getting started with React](https://reactjs.org/tutorial/tutorial.html)
 
-https://facebook.github.io/jest/docs/en/tutorial-react.html
-Testing react with jest
 
 Day plan:
 

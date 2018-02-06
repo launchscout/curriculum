@@ -1,16 +1,15 @@
-Possible materials:
+# Posts to read before class
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-(intro to js. covers data structures, control flow, functions, some es6)
+* [Intro to js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
-More complete coverage of JS
+# Videos to watch before class
 
-ES6 Modules (import/export)
-http://exploringjs.com/es6/ch_modules.html
+* [Functional programming with javascript (1-8 only)](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
-https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
-(1-8 in this video series. covers map, filter, reduce, and promises)
+# Additional Resources
+
+* [Very complete JS docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* [ES Modules](http://exploringjs.com/es6/ch_modules.html)
 
 Other topics:
 * NPM

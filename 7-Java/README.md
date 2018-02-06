@@ -4,12 +4,19 @@ at least to start. When they set up their
 Kroger laptops they will also want to install IntelliJ, so coming with a
 step by step "Doing hello world in IntelliJ" might be worth doing.
 
-Udacity basic java: https://www.udacity.com/course/java-programming-basics--ud282
-Gradle course: https://www.udacity.com/course/gradle-for-android-and-java--ud867
+# Videos to watch before class
 
-[Concurrency tutorial series](https://www.callicoder.com/java-concurrency-multithreading-basics/)
+* [Java Fundamentals](https://www.youtube.com/watch?v=WPvGqX-TXP0)
 
-Day plan
+# Courses
+
+* [Basic java tut](https://docs.oracle.com/javase/tutorial/)
+* [Udacity basic java](https://www.udacity.com/course/java-programming-basics--ud282)
+* [Gradle course](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
+
+* [Concurrency tutorial series](https://www.callicoder.com/java-concurrency-multithreading-basics/)
+
+# Day plan
 
 * Questions
 * Intro to TDD
@@ -17,7 +24,7 @@ Day plan
 * Code reviews
 * Make sure everyone has Spring boot app running
 
-Exercism exercies:
+# Exercism exercies:
 
 * Pangram
 * Hamming
