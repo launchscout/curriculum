@@ -6,37 +6,37 @@ The course links or addition resources are provided if you want to go deeper on 
 
 ## Day 2 - Networking
 
-### Videos to watch before class
+#### Videos to watch before class
 
 * [What is DNS](https://www.youtube.com/watch?v=Rck3BALhI5c)
 * [What is a Proxy](https://www.youtube.com/watch?v=jGQTS1CxZTE)
 
-### Courses
+#### Courses
 
 * [Udemy HTTP Courses](https://www.udacity.com/course/client-server-communication--ud897)
 
 ## Day 2 - Git
 
-### Courses
+#### Courses
 
 * [Udemy git and github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
-### Videos to watch before class
+#### Videos to watch before class
 
 * [What is version control](https://git-scm.com/video/what-is-version-control)
 * [What is git](https://git-scm.com/video/what-is-git)
 
-### Additional Resources
+#### Additional Resources
 
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 
 ## Day 3 - Java
 
-### Videos to watch before class
+#### Videos to watch before class
 
 * [Java Fundamentals](https://www.youtube.com/watch?v=WPvGqX-TXP0)
 
-### Courses
+#### Courses
 
 * [Basic java tut](https://docs.oracle.com/javase/tutorial/)
 * [Udacity basic java](https://www.udacity.com/course/java-programming-basics--ud282)
@@ -46,28 +46,28 @@ The course links or addition resources are provided if you want to go deeper on 
 
 ## Day 4 - Spring
 
-### Post to read before class
+#### Post to read before class
 
 * [Spring Getting Started Guide](https://spring.io/guides/gs/spring-boot/)
 
 ## Day 5 - Databases
 
-### Videos to watch before class
+#### Videos to watch before class
 
 [Database fundamentals](https://youtu.be/GdeaqBCR5PQ?t=3m32s)
 [Apache Cassandra](https://www.youtube.com/watch?v=oawc4doC76U)
 
 ## Day 6 - Javascript
 
-# Posts to read before class
+#### Posts to read before class
 
 * [Intro to js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-# Videos to watch before class
+#### Videos to watch before class
 
 * [Functional programming with javascript (1-8 only)](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
-# Additional Resources
+#### Additional Resources
 
 * [Very complete JS docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [ES Modules](http://exploringjs.com/es6/ch_modules.html)
