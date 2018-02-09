@@ -1,8 +1,10 @@
+
+# Readings
 [Spring reference](https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html)
 
 In particular, these sections
 
-* Core
+  * Core
   * IoC Container
 
 [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/)

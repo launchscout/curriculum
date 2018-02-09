@@ -1,8 +1,11 @@
-I always start with: https://docs.oracle.com/javase/tutorial/
-The Trail covering the basics is probably where to go and all that is necessary
-at least to start. When they set up their
-Kroger laptops they will also want to install IntelliJ, so coming with a
-step by step "Doing hello world in IntelliJ" might be worth doing.
+# Readings before class
+
+* [Java Tutorial](https://docs.oracle.com/javase/tutorial/)
+Specifically, these Trails:
+  * Getting Started
+  * Learning the Java Language
+  * Essential Java Classes
+  * Collections
 
 # Videos to watch before class
 
@@ -19,16 +22,14 @@ step by step "Doing hello world in IntelliJ" might be worth doing.
 # Day plan
 
 * Questions
+* IntelliJ setup (if not done already)
 * Intro to TDD
-* Excercism
+* Exercism
+  * Pangram
+  * Hamming
+  * Scrabble score
+  * Luhn
+  * Sieve
+  * Bank Account
 * Code reviews
 * Make sure everyone has Spring boot app running
-
-# Exercism exercies:
-
-* Pangram
-* Hamming
-* Scrabble score
-* Luhn
-* Sieve
-* Bank Account
