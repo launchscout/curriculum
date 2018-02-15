@@ -4,7 +4,7 @@
 
 # Videos to watch before class
 
-* [Functional programming with javascript (1-8 only)](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+* [Functional programming with javascript (1-4 only)](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
 # Additional Resources
 
