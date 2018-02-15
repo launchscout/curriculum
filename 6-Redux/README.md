@@ -1,10 +1,7 @@
-Possible materials:
+# Videos to watch before class
 
-http://redux.js.org/
-(the docs are good)
+* [Getting started with redux](https://egghead.io/series/getting-started-with-redux)
 
-https://egghead.io/series/getting-started-with-redux
-(videos by Dan Abramov)
+# Additional Resources
 
-https://egghead.io/courses/building-react-applications-with-idiomatic-redux
-(more good videos. maybe out of scope for the curriculum.)
+* [Official Redux Docs](https://redux.js.org/)
