@@ -6,6 +6,7 @@
 # Additional Resources
 
 * [Getting started with React](https://reactjs.org/tutorial/tutorial.html)
+* [Quick Start](https://reactjs.org/docs/hello-world.html)
 
 
 Day plan:
