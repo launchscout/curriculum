@@ -28,3 +28,4 @@ Day plan
     * Example request http://api.openweathermap.org/data/2.5/weather?q=Cincinnati&appid=d4b42d12400cbf224b872836ce192659
     * Be sure to sign up for API key
     * pass api key as appid parameter
+    * [Finished app](https://github.com/DevBuilders/weather)
