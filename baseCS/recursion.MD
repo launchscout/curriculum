@@ -14,7 +14,7 @@ or books that cover the subject of recursion, feel free to share them as well.
 
 For coding exercises:
 
-[Nucleotide Count](http://exercism.io/exercises/kotlin/nucleotide-count/readme)
-[Beer Song](http://exercism.io/exercises/kotlin/beer-song/readme)
+* [Nucleotide Count](http://exercism.io/exercises/kotlin/nucleotide-count/readme)
+* [Beer Song](http://exercism.io/exercises/kotlin/beer-song/readme)
 
 With this additional contraint: No Loops allowed! Only recursion :)
