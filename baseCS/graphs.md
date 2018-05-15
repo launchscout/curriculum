@@ -12,6 +12,7 @@ Coding assignment:
 
 Given the following undirected graph:
 
+```
 V = { "Seattle", "Denver", "Chicago", "San Diego", "Detroit", "Minneapolis",
 "Boston", "Atlanta"}
 E = {
@@ -24,6 +25,7 @@ E = {
   {"Detroit", "Boston"},
   {"Boston", "Atlanta"},
 }
+```
 
 * Given one city, calculate the path to another.
 * Implement BFS and DFS. Are the results different?
