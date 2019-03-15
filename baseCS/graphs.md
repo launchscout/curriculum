@@ -1,6 +1,6 @@
 This week, as promised, we'll look at Graph Theory.
 
-Here are the readings:
+Here are some suggested readings:
 
 * [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 * [Königsberg: Seven Small Bridges, One Giant Graph Problem](https://medium.com/basecs/k%C3%B6nigsberg-seven-small-bridges-one-giant-graph-problem-2275d1670a12)
@@ -18,7 +18,7 @@ V = { "Seattle", "Denver", "Chicago", "San Diego", "Detroit", "Minneapolis",
 E = {
   {"Chicago", "Denver"},
   {"Seattle", "Denver"},
-  {"Chicago", "Denver"},
+  {"San Diego", "Denver"},
   {"Chicago", "Detroit"},
   {"Chicago", "Atlanta"},
   {"Detroit", "Minneapolis"},
@@ -28,6 +28,5 @@ E = {
 ```
 
 * Given one city, calculate the path to another.
-* Implement BFS and DFS. Are the results different?
 * Use whatever language makes you happiest :)
 * Write tests, preferably TDD
